@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spaggot" />
+        <module name="Spaggot-API" />
+        <module name="SpaggotTestModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="10">
+      <module name="Spaggot" target="1.10" />
+      <module name="Spaggot-API" target="1.10" />
+      <module name="Spaggot-API (1) (com.temporary.helix.test)" target="1.10" />
+      <module name="Spaggot-TestModule" target="1.10" />
+      <module name="SpaggotTestModule" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

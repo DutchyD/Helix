@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Helix Devs
+Spaggot-Main: com.temporary.helix.test.SpaggotTestModule

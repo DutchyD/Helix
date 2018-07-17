@@ -1,0 +1,6 @@
+com\temporary\helix\module\ModuleSettings.class
+com\temporary\helix\module\ModuleContext.class
+com\temporary\helix\module\SpaggotModule.class
+com\temporary\helix\Spaggot.class
+com\temporary\helix\exception\ModuleException.class
+com\temporary\helix\module\ModuleLoader.class
